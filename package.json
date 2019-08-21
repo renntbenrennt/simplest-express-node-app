@@ -1,0 +1,19 @@
+{
+  "name": "simplest-express-node-app",
+  "version": "1.0.0",
+  "description": "Just a simple basic node/express app to handle some requrest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "request-handling"
+  ],
+  "author": "Benjamin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
